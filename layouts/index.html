@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+  <h1>Research Summary</h1>
+  Anna Beer is a post-doctoral researcher as part of the Data Mining and Machine Learning group, at University of Vienna's faculty of Computer Science. 
+  Her focus lies on foundational research in unsupervised machine learning data mining, and the evaluation of methods in this field. 
+  On this page, you can find an overview of research projects, supervised bachelor and master theses, as well as tutorials and other posts on topics within this realm.
+  <h1>Recent Posts</h1>
+<ul>
+{{ range first 10 (where .Site.Pages "Type" "in" (slice "papers" "tutorials" "posts")) }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.year }})
+    <p>{{ .Params.summary }}</p>
+  </li>
+{{ end }}
+</ul>
+
+
+{{ end }}

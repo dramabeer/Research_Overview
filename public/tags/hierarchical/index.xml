@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hierarchical on Anna Beer</title>
+    <link>http://localhost:1313/tags/hierarchical/</link>
+    <description>Recent content in Hierarchical on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Feb 2025 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hierarchical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Want&#39;Em All (At Once): Ultrametric Cluster Hierarchies</title>
+      <link>http://localhost:1313/papers/i-want-em-all-at-once/</link>
+      <pubDate>Wed, 19 Feb 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/i-want-em-all-at-once/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+  </channel>
+</rss>

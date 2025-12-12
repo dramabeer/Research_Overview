@@ -1,0 +1,35 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="tag-filter-container">
+  <button id="toggle-tags" class="tag-toggle">Filter by tag ▾</button>
+  <div id="tag-filter" class="tag-filter collapsed">
+    {{ $tags := .Site.Taxonomies.tags }}
+    {{ range $tag, $pages := $tags }}
+      <a href="/tags/{{ $tag | urlize }}/" class="tag">{{ $tag }}</a>
+    {{ end }}
+  </div>
+</div>
+
+<p>{{ .Content }}</p>
+
+<ul>
+{{ range .Pages }}
+  <li>
+    <h2>
+ <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  <span class="pub-year">({{ .Params.year }})</span>
+  </h2>
+    <p>{{ .Params.summary }}</p>
+    {{ with .Params.tags }}
+<p>
+  {{ range $index, $tag := . }}
+    <a class="tag" href="/tags/{{ $tag | urlize }}/">{{ $tag }}</a>
+  {{ end }}
+</p>
+{{ end }}
+
+
+  </li>
+{{ end }}
+</ul>
+{{ end }}

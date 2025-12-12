@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervised Theses on Anna Beer</title>
+    <link>http://localhost:1313/theses/</link>
+    <description>Recent content in Supervised Theses on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/theses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncertainty in Density-Based Clustering for Astrophysics Data</title>
+      <link>http://localhost:1313/theses/35/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/35/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Unified Perception of Density for Clustering</title>
+      <link>http://localhost:1313/theses/32/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/32/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Measuring Quality of Unsupervised Learning: Evaluation of Density-Based Clustering</title>
+      <link>http://localhost:1313/theses/31/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/31/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dimensionality Reduction for Structured Data by Exploiting Complex Space</title>
+      <link>http://localhost:1313/theses/30/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/30/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Temporal Subspace Clustering for Molecular Dynamics Data</title>
+      <link>http://localhost:1313/theses/29/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/29/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dimensionality Reduction and Novel Data Analysis Methods for High-Dimensional Time Series from Molecular Dynamics Simulations</title>
+      <link>http://localhost:1313/theses/28/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/28/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clustering on Trajectories for Protein Folding Analysis</title>
+      <link>http://localhost:1313/theses/27/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/27/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiview Spectral Clustering on Single View Data</title>
+      <link>http://localhost:1313/theses/26/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/26/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linear Unsupervised Correlation Clustering transferring Knowledge from Cluster Algorithms</title>
+      <link>http://localhost:1313/theses/23/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accelerating Robust Spectral Clustering using the Nyström Method</title>
+      <link>http://localhost:1313/theses/25/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On Optimizing Parameter Settings for Clustering Algorithms</title>
+      <link>http://localhost:1313/theses/24/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistic-based Internal Quality measures for Clustering</title>
+      <link>http://localhost:1313/theses/22/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/22/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Multlilabel Clustering Approach based on Attribute-Dependent Density</title>
+      <link>http://localhost:1313/theses/21/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/21/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clustering using Inverse Heat Kernels</title>
+      <link>http://localhost:1313/theses/20/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/20/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Core DBSCAN</title>
+      <link>http://localhost:1313/theses/19/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kNN in High- Dimensional Data</title>
+      <link>http://localhost:1313/theses/16/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/16/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Variants of Spectral Clustering</title>
+      <link>http://localhost:1313/theses/18/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/18/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A kNN- based Anytime Clustering Approach</title>
+      <link>http://localhost:1313/theses/13/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/13/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Angle- Based Clustering</title>
+      <link>http://localhost:1313/theses/14/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/14/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interactive Spectral Clustering</title>
+      <link>http://localhost:1313/theses/17/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/17/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anytime Outlier Detection based on Distributions and k-Means</title>
+      <link>http://localhost:1313/theses/12/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Subspace Clustering with kNN--- A kNN-based Importance Score for Subspaces</title>
+      <link>http://localhost:1313/theses/11/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gamification of Subspace Clustering via Visual Analytics</title>
+      <link>http://localhost:1313/theses/10/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linear Correlation Clustering based on Nearest Neighbors</title>
+      <link>http://localhost:1313/theses/8/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Using a Semi-Pseudometric for Clustering High Dimensional Data</title>
+      <link>http://localhost:1313/theses/4/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clustering Multidimensional Data using Fitted Grid Size</title>
+      <link>http://localhost:1313/theses/3/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clustern von Punktmengen basierend auf dynamischer Dichte</title>
+      <link>http://localhost:1313/theses/2/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chaindetection for DBSCAN</title>
+      <link>http://localhost:1313/theses/6/</link>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/6/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

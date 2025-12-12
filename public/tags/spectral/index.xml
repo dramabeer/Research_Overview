@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spectral on Anna Beer</title>
+    <link>http://localhost:1313/tags/spectral/</link>
+    <description>Recent content in Spectral on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spectral/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scar: Spectral clustering accelerated and robustified</title>
+      <link>http://localhost:1313/papers/scar/</link>
+      <pubDate>Fri, 01 Jul 2022 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/scar/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Accelerating Robust Spectral Clustering using the Nyström Method</title>
+      <link>http://localhost:1313/theses/25/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Variants of Spectral Clustering</title>
+      <link>http://localhost:1313/theses/18/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/18/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interactive Spectral Clustering</title>
+      <link>http://localhost:1313/theses/17/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/17/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

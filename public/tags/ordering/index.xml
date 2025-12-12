@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ordering on Anna Beer</title>
+    <link>http://localhost:1313/tags/ordering/</link>
+    <description>Recent content in Ordering on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 May 2024 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ordering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DROPP: Structure-Aware PCA for Ordered Data: A General Method and its Applications in Climate Research and Molecular Dynamics</title>
+      <link>http://localhost:1313/papers/dropp/</link>
+      <pubDate>Mon, 13 May 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/dropp/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Orderings of Data: More Than a Tripping Hazard</title>
+      <link>http://localhost:1313/papers/ordering-of-data/</link>
+      <pubDate>Tue, 07 Jul 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/ordering-of-data/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Graph Ordering and Clustering: A Circular Approach</title>
+      <link>http://localhost:1313/papers/graph-ordering-and-clustering/</link>
+      <pubDate>Tue, 23 Jul 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/graph-ordering-and-clustering/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+  </channel>
+</rss>

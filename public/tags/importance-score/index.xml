@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Importance-Score on Anna Beer</title>
+    <link>http://localhost:1313/tags/importance-score/</link>
+    <description>Recent content in Importance-Score on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/importance-score/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KISS: A fast kNN-based Importance Score for Subspaces.</title>
+      <link>http://localhost:1313/papers/kiss/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/kiss/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Subspace Clustering with kNN--- A kNN-based Importance Score for Subspaces</title>
+      <link>http://localhost:1313/theses/11/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/11/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

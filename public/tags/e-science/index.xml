@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-Science on Anna Beer</title>
+    <link>http://localhost:1313/tags/e-science/</link>
+    <description>Recent content in E-Science on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Oct 2018 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/e-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fatbird: A tool for flight and trajectories analyses of birds</title>
+      <link>http://localhost:1313/papers/fatbird/</link>
+      <pubDate>Mon, 29 Oct 2018 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/fatbird/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+  </channel>
+</rss>

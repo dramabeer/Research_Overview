@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outlier on Anna Beer</title>
+    <link>http://localhost:1313/tags/outlier/</link>
+    <description>Recent content in Outlier on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/outlier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AnyCORE: An Anytime Algorithm for Cluster Outlier REmoval</title>
+      <link>http://localhost:1313/papers/anycore/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/anycore/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>MORe&#43;&#43;: k-Means Based Outlier Removal on High-Dimensional Data</title>
+      <link>http://localhost:1313/papers/more-pp/</link>
+      <pubDate>Mon, 23 Sep 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/more-pp/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+  </channel>
+</rss>

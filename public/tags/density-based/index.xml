@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Density-Based on Anna Beer</title>
+    <link>http://localhost:1313/tags/density-based/</link>
+    <description>Recent content in Density-Based on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/density-based/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Density-Connectivity Distance</title>
+      <link>http://localhost:1313/tutorials/connectingthedots/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tutorials/connectingthedots/</guid>
+      <description>&lt;p&gt;In the &amp;ldquo;Links&amp;rdquo; section, you can find a tutorial on the DC-Distance created by Khurram Hashmi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uncertainty in Density-Based Clustering for Astrophysics Data</title>
+      <link>http://localhost:1313/theses/35/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/35/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DISCO: Internal Evaluation of Density-Based Clustering</title>
+      <link>http://localhost:1313/papers/disco/</link>
+      <pubDate>Sat, 08 Feb 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/disco/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>FairDen: Fair Density-Based Clustering</title>
+      <link>http://localhost:1313/papers/fair-den/</link>
+      <pubDate>Wed, 01 Jan 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/fair-den/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Shade: Deep density-based clustering</title>
+      <link>http://localhost:1313/papers/shade/</link>
+      <pubDate>Mon, 09 Dec 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/shade/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Data with density-based clusters: A generator for systematic evaluation of clustering algorithms</title>
+      <link>http://localhost:1313/papers/generator-for-systematic-evaluation/</link>
+      <pubDate>Thu, 22 Aug 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/generator-for-systematic-evaluation/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Connecting the Dots--Density-Connectivity Distance unifies DBSCAN, k-Center and Spectral Clustering</title>
+      <link>http://localhost:1313/papers/connecting-the-dots/</link>
+      <pubDate>Fri, 04 Aug 2023 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/connecting-the-dots/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Temporal Subspace Clustering for Molecular Dynamics Data</title>
+      <link>http://localhost:1313/theses/29/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/29/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiview Spectral Clustering on Single View Data</title>
+      <link>http://localhost:1313/theses/26/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/26/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Core DBSCAN</title>
+      <link>http://localhost:1313/theses/19/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chain-Detection for DBSCAN</title>
+      <link>http://localhost:1313/papers/chain-detection-dbscan/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/chain-detection-dbscan/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Clustering Multidimensional Data using Fitted Grid Size</title>
+      <link>http://localhost:1313/theses/3/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chaindetection for DBSCAN</title>
+      <link>http://localhost:1313/theses/6/</link>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/6/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

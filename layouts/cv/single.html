@@ -1,0 +1,81 @@
+{{ define "main" }}
+<div class="cv-container">
+
+  <!-- Left sidebar -->
+  <aside class="cv-sidebar">
+    <img src="{{ .Params.profile_pic }}" alt="{{ .Params.name }}" class="cv-photo">
+    <h2>{{ .Params.name }}</h2>
+  <!---    <p class="cv-position">{{ .Params.position }}</p>-->
+ <!---   <p class="cv-university">{{ .Params.university }}</p> -->
+
+    {{ with .Params.phone }}
+      <p><i class="fas fa-phone"></i> {{ . }}</p>
+    {{ end }}
+
+    {{ with .Params.email }}
+        <p><i class="fas fa-envelope"></i> 
+        <a href="mailto:{{ . }}" class="cv-link">{{ . }}</a>
+    </p>
+    {{ end }}
+
+    {{ with .Params.scholar_url }}
+    <p>
+        <i class="fas fa-graduation-cap"></i>
+        <a href="{{ . }}" target="_blank" class="cv-link">Google Scholar</a>
+    </p>
+    {{ end }}
+    {{ with .Params.linkedin_url }}
+    <p>
+      <i class="fab fa-linkedin"></i>
+      <a href="{{ . }}" target="_blank" class="cv-link">LinkedIn</a>
+    </p>
+    {{ end }}
+
+
+  </aside>
+
+
+  <main class="cv-main">
+    <section class="cv-about">
+      <h2>About Me</h2>
+      {{ with .Content }}
+        {{ . | markdownify }}
+      {{ end }}
+    </section>
+
+
+     
+ 
+     
+
+    
+  </main>
+
+
+      
+</div>
+ <section class="cv-sidebar">
+  <h2>Experience</h2>
+  <ul>
+    {{ range .Params.experience }}
+      <li>
+        <strong>{{ .position }}</strong>, {{ .institution }} <br>
+        {{ .start }} – {{ .end }} | {{ .location }}
+      </li>
+    {{ end }}
+  </ul>
+</section>
+
+<section class="cv-sidebar">
+  <h2>Education</h2>
+  <ul>
+    {{ range .Params.education }}
+      <li>
+        <strong>{{ .degree }}</strong>, {{ .institution }}  <br>{{ .year }} | {{ .location }}
+      </li>
+    {{ end }}
+  </ul>
+</section>
+
+
+{{ end }}

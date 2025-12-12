@@ -1,0 +1,13 @@
+{{ define "main" }}
+<button onclick="history.back()" class="back-btn">← Back</button>
+
+<article>
+  <h2>{{ .Title }}</h2>
+  <p><small>Published on {{ .Date.Format "2006/01/02" }}</small></p>
+  <p><em> {{ delimit .Params.authors ", " }}</em></p>
+
+
+</article>
+{{ end }}
+
+

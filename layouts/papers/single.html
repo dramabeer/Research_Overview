@@ -1,0 +1,83 @@
+{{ define "main" }}
+<button onclick="history.back()" class="back-btn">← Back</button>
+
+<article>
+  <h2>{{ .Title }}</h2>
+  <p><small>Published on {{ .Date.Format "2006/01/02" }}</small></p>
+  <p><small>in {{ .Params.venue }}</small></p>
+  
+  <p><em>{{ delimit .Params.authors ", " }}</em></p>
+
+  <section id="abstract">
+    <h3>Abstract</h3>
+    <p>{{ .Params.abstract }}</p>
+  </section>
+
+  
+    {{ with .Params.code }}
+      <p><a href="{{ . }}" target="_blank">Code</a></p>
+    {{ end }}
+    {{ with .Params.external_pdf }}
+      <p><a href="{{ . }}" target="_blank">Paper</a></p>
+    {{ end }}
+    {{ with .Params.poster }}
+      <p><a href="{{ . }}" target="_blank">Poster</a></p>
+    {{ end }}
+    {{ with .Params.presentation }}
+      <p><a href="{{ . }}" target="_blank">Presentation</a></p>
+    {{ end }}
+    
+    {{ with .Params.tutorial }}
+      <p><a href="{{ . }}" target="_blank">Tutorial</a></p>
+    {{ end }}
+
+    <section id="paper_conference">
+    {{ with .Params.pdf_conference }}
+    
+    <details>
+      <summary>Conference Paper</summary>
+    <iframe src="{{ . }}" width="100%" height="600px" style="border:none;"></iframe>
+    </details>
+
+  </section>
+  {{ end }}
+  <section id="paper">
+    {{ with .Params.pdf }}
+    
+    <details>
+      <summary>Paper</summary>
+    <iframe src="{{ . }}" width="100%" height="600px" style="border:none;"></iframe>
+    </details>
+
+  </section>
+  {{ end }}
+  <section id="poster">
+    {{ with .Params.poster }}
+    
+    <details>
+      <summary>Poster</summary>
+    <iframe src="{{ . }}" width="100%" height="600px" style="border:none;"></iframe>
+    </details>
+
+  </section>
+  {{ end }}
+  
+  <section id="presentation">
+    {{ with .Params.presentation }}
+    
+    <details>
+      <summary>Presentation</summary>
+    <iframe src="{{ . }}" width="100%" height="600px" style="border:none;"></iframe>
+    </details>
+
+  </section>
+  {{ end }}
+
+  
+
+  
+
+</article>
+{{ end }}
+
+

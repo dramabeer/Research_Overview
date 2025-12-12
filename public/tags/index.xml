@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Anna Beer</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Aug 2025 16:55:54 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clustering</title>
+      <link>http://localhost:1313/tags/clustering/</link>
+      <pubDate>Thu, 21 Aug 2025 16:55:54 +0200</pubDate>
+      <guid>http://localhost:1313/tags/clustering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Astrophysics</title>
+      <link>http://localhost:1313/tags/astrophysics/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/astrophysics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Density-Based</title>
+      <link>http://localhost:1313/tags/density-based/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/density-based/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uncertainty</title>
+      <link>http://localhost:1313/tags/uncertainty/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/uncertainty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hierarchical</title>
+      <link>http://localhost:1313/tags/hierarchical/</link>
+      <pubDate>Wed, 19 Feb 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/hierarchical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evaluation</title>
+      <link>http://localhost:1313/tags/evaluation/</link>
+      <pubDate>Sat, 08 Feb 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fairness</title>
+      <link>http://localhost:1313/tags/fairness/</link>
+      <pubDate>Wed, 01 Jan 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/fairness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep</title>
+      <link>http://localhost:1313/tags/deep/</link>
+      <pubDate>Mon, 09 Dec 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/deep/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Active Learning</title>
+      <link>http://localhost:1313/tags/active-learning/</link>
+      <pubDate>Thu, 22 Aug 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/active-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
+      <pubDate>Thu, 22 Aug 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Molecular Dynamcs</title>
+      <link>http://localhost:1313/tags/molecular-dynamcs/</link>
+      <pubDate>Wed, 31 Jul 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/molecular-dynamcs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Temporal</title>
+      <link>http://localhost:1313/tags/temporal/</link>
+      <pubDate>Wed, 31 Jul 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/temporal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ordering</title>
+      <link>http://localhost:1313/tags/ordering/</link>
+      <pubDate>Mon, 13 May 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/ordering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PCA</title>
+      <link>http://localhost:1313/tags/pca/</link>
+      <pubDate>Mon, 13 May 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/pca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dimensionality-Reduction</title>
+      <link>http://localhost:1313/tags/dimensionality-reduction/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dimensionality-reduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time-Series</title>
+      <link>http://localhost:1313/tags/time-series/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/time-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trajectories</title>
+      <link>http://localhost:1313/tags/trajectories/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/trajectories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spectral</title>
+      <link>http://localhost:1313/tags/spectral/</link>
+      <pubDate>Fri, 01 Jul 2022 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/spectral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Corelation</title>
+      <link>http://localhost:1313/tags/corelation/</link>
+      <pubDate>Tue, 07 Dec 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/corelation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embeddings</title>
+      <link>http://localhost:1313/tags/embeddings/</link>
+      <pubDate>Mon, 20 Sep 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/embeddings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acceleration</title>
+      <link>http://localhost:1313/tags/acceleration/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/acceleration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robustness</title>
+      <link>http://localhost:1313/tags/robustness/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/robustness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>http://localhost:1313/tags/optimization/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Importance-Score</title>
+      <link>http://localhost:1313/tags/importance-score/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/importance-score/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KNN-Based</title>
+      <link>http://localhost:1313/tags/knn-based/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/knn-based/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outlier</title>
+      <link>http://localhost:1313/tags/outlier/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/outlier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quality-Measure</title>
+      <link>http://localhost:1313/tags/quality-measure/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quality-measure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Label</title>
+      <link>http://localhost:1313/tags/multi-label/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/multi-label/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kernels</title>
+      <link>http://localhost:1313/tags/kernels/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kernels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>High-Dimensional</title>
+      <link>http://localhost:1313/tags/high-dimensional/</link>
+      <pubDate>Wed, 01 Jan 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/high-dimensional/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KNN</title>
+      <link>http://localhost:1313/tags/knn/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/knn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Means</title>
+      <link>http://localhost:1313/tags/k-means/</link>
+      <pubDate>Mon, 23 Sep 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/k-means/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Correlation</title>
+      <link>http://localhost:1313/tags/correlation/</link>
+      <pubDate>Mon, 26 Aug 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/correlation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outlier Detection</title>
+      <link>http://localhost:1313/tags/outlier-detection/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/outlier-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Datasets</title>
+      <link>http://localhost:1313/tags/datasets/</link>
+      <pubDate>Sat, 06 Jul 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/datasets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gamification</title>
+      <link>http://localhost:1313/tags/gamification/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gamification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human-Computer Interation</title>
+      <link>http://localhost:1313/tags/human-computer-interation/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/human-computer-interation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FFT</title>
+      <link>http://localhost:1313/tags/fft/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/fft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>E-Science</title>
+      <link>http://localhost:1313/tags/e-science/</link>
+      <pubDate>Mon, 29 Oct 2018 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/e-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mean Shift</title>
+      <link>http://localhost:1313/tags/mean-shift/</link>
+      <pubDate>Mon, 09 Jul 2018 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/mean-shift/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parameter Selection</title>
+      <link>http://localhost:1313/tags/parameter-selection/</link>
+      <pubDate>Mon, 09 Jul 2018 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/parameter-selection/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

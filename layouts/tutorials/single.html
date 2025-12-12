@@ -1,0 +1,21 @@
+{{ define "main" }}
+<button onclick="history.back()" class="back-btn">← Back</button>
+
+<article>
+  <h2>{{ .Title }}</h2>
+  <p><small>Published on {{ .Date.Format "2006-01-02" }}</small></p>
+<div>
+      {{ .Content }}
+    </div>
+   <section id="links">
+    <details><summary>Links</summary>
+    
+    {{ with .Params.external_link }}
+      <p><a href="{{ . }}" target="_blank">Tutorial</a></p>
+    {{ end }}
+    
+    </details>
+  </section>
+</article>
+{{ end }}
+

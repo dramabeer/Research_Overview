@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Correlation on Anna Beer</title>
+    <link>http://localhost:1313/tags/correlation/</link>
+    <description>Recent content in Correlation on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Aug 2019 12:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/correlation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CODEC: Detecting Linear Correlations in Dense Clusters using coMAD-based PCA</title>
+      <link>http://localhost:1313/papers/codec/</link>
+      <pubDate>Mon, 26 Aug 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/codec/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+  </channel>
+</rss>

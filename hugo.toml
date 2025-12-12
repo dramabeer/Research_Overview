@@ -1,0 +1,53 @@
+
+languageCode = "en-us"
+title = "Anna Beer"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "papers"
+    name = "Papers"
+    url = "/papers/"
+    weight = 3
+    
+  [[menu.main]]
+  identifier = "tutorials"
+  name = "Tutorials"
+  url = "/tutorials/"
+  weight = 4
+
+  [[menu.main]]
+  identifier = "theses"
+  name = "Theses"
+  url = "/theses/"
+  weight = 5
+
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 6
+
+    [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

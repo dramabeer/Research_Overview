@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <button onclick="history.back()" class="back-btn">← Back</button>
+
+  <h1>Tag: {{ .Title }}</h1>
+
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

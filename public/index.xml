@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Beer</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Anna Beer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;I am a post-doctoral researcher in Data Mining and Machine Learning at the University of Vienna. I received my PhD degree in Computer Science from LMU Munich for my work&#xA;&amp;ldquo;On the Edges of Clustering - Creating Synergies with Related Problems&amp;rdquo;,&#xA;supervised by Prof. Dr. Thomas Seidl. &lt;br&gt;&#xA;Before my current position, I was working on data analysis methods for molecular dynamics data as a post-doc at Aarhus University, Denmark. &lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;Research Interests: &lt;br&gt;&#xA;Unsupervised Machine Learning &lt;br&gt;&#xA;Density-based Clustering &lt;br&gt;&#xA;Evaluation of AI Methods&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/template/</link>
+      <pubDate>Thu, 21 Aug 2025 16:55:54 +0200</pubDate>
+      <guid>http://localhost:1313/posts/template/</guid>
+      <description>Short summary of the post.</description>
+    </item>
+    <item>
+      <title>Density-Connectivity Distance</title>
+      <link>http://localhost:1313/tutorials/connectingthedots/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tutorials/connectingthedots/</guid>
+      <description>&lt;p&gt;In the &amp;ldquo;Links&amp;rdquo; section, you can find a tutorial on the DC-Distance created by Khurram Hashmi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uncertainty in Density-Based Clustering for Astrophysics Data</title>
+      <link>http://localhost:1313/theses/35/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/35/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Unified Perception of Density for Clustering</title>
+      <link>http://localhost:1313/theses/32/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/32/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>I Want&#39;Em All (At Once): Ultrametric Cluster Hierarchies</title>
+      <link>http://localhost:1313/papers/i-want-em-all-at-once/</link>
+      <pubDate>Wed, 19 Feb 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/i-want-em-all-at-once/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>DISCO: Internal Evaluation of Density-Based Clustering</title>
+      <link>http://localhost:1313/papers/disco/</link>
+      <pubDate>Sat, 08 Feb 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/disco/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Measuring Quality of Unsupervised Learning: Evaluation of Density-Based Clustering</title>
+      <link>http://localhost:1313/theses/31/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/31/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FairDen: Fair Density-Based Clustering</title>
+      <link>http://localhost:1313/papers/fair-den/</link>
+      <pubDate>Wed, 01 Jan 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/fair-den/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Shade: Deep density-based clustering</title>
+      <link>http://localhost:1313/papers/shade/</link>
+      <pubDate>Mon, 09 Dec 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/shade/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Data with density-based clusters: A generator for systematic evaluation of clustering algorithms</title>
+      <link>http://localhost:1313/papers/generator-for-systematic-evaluation/</link>
+      <pubDate>Thu, 22 Aug 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/generator-for-systematic-evaluation/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>FALCUN: A Simple and Efficient Deep Active Learning Strategy</title>
+      <link>http://localhost:1313/papers/falcun/</link>
+      <pubDate>Thu, 22 Aug 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/falcun/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Temporal Subspace Clustering for Molecular Dynamics Data</title>
+      <link>http://localhost:1313/papers/temporal-subspace-clustering/</link>
+      <pubDate>Wed, 31 Jul 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/temporal-subspace-clustering/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>DROPP: Structure-Aware PCA for Ordered Data: A General Method and its Applications in Climate Research and Molecular Dynamics</title>
+      <link>http://localhost:1313/papers/dropp/</link>
+      <pubDate>Mon, 13 May 2024 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/dropp/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Dimensionality Reduction for Structured Data by Exploiting Complex Space</title>
+      <link>http://localhost:1313/theses/30/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/30/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Connecting the Dots--Density-Connectivity Distance unifies DBSCAN, k-Center and Spectral Clustering</title>
+      <link>http://localhost:1313/papers/connecting-the-dots/</link>
+      <pubDate>Fri, 04 Aug 2023 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/connecting-the-dots/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Temporal Subspace Clustering for Molecular Dynamics Data</title>
+      <link>http://localhost:1313/theses/29/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/29/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dimensionality Reduction and Novel Data Analysis Methods for High-Dimensional Time Series from Molecular Dynamics Simulations</title>
+      <link>http://localhost:1313/theses/28/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/28/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Over-optimistic evaluation and reporting of novel cluster algorithms: an illustrative study</title>
+      <link>http://localhost:1313/papers/over-optimistic-evaluation/</link>
+      <pubDate>Fri, 17 Mar 2023 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/over-optimistic-evaluation/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Clustering on Trajectories for Protein Folding Analysis</title>
+      <link>http://localhost:1313/theses/27/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/27/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scar: Spectral clustering accelerated and robustified</title>
+      <link>http://localhost:1313/papers/scar/</link>
+      <pubDate>Fri, 01 Jul 2022 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/scar/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Multiview Spectral Clustering on Single View Data</title>
+      <link>http://localhost:1313/theses/26/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/26/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LUCKe - Connecting Clustering and Correlation Clustering</title>
+      <link>http://localhost:1313/papers/lucke/</link>
+      <pubDate>Tue, 07 Dec 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/lucke/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Compound Segmentation via Clustering on Mol2Vec-based Embeddings</title>
+      <link>http://localhost:1313/papers/compound-segmentation/</link>
+      <pubDate>Mon, 20 Sep 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/compound-segmentation/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Linear Unsupervised Correlation Clustering transferring Knowledge from Cluster Algorithms</title>
+      <link>http://localhost:1313/theses/23/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accelerating Robust Spectral Clustering using the Nyström Method</title>
+      <link>http://localhost:1313/theses/25/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/25/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On Optimizing Parameter Settings for Clustering Algorithms</title>
+      <link>http://localhost:1313/theses/24/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/24/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AnyCORE: An Anytime Algorithm for Cluster Outlier REmoval</title>
+      <link>http://localhost:1313/papers/anycore/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/anycore/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Cluster Flow: an Advanced Concept for Ensemble-Enabling, Interactive Clustering</title>
+      <link>http://localhost:1313/papers/cluster-flow/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/cluster-flow/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>KISS: A fast kNN-based Importance Score for Subspaces.</title>
+      <link>http://localhost:1313/papers/kiss/</link>
+      <pubDate>Fri, 01 Jan 2021 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/kiss/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Statistic-based Internal Quality measures for Clustering</title>
+      <link>http://localhost:1313/theses/22/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/22/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>I fold you so! An internal evaluation measure for arbitrary oriented subspace clustering</title>
+      <link>http://localhost:1313/papers/i-fold-you-so/</link>
+      <pubDate>Tue, 17 Nov 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/i-fold-you-so/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Angle-based clustering</title>
+      <link>http://localhost:1313/papers/angle-based-clustering/</link>
+      <pubDate>Wed, 30 Sep 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/angle-based-clustering/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>A Multlilabel Clustering Approach based on Attribute-Dependent Density</title>
+      <link>http://localhost:1313/theses/21/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/21/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orderings of Data: More Than a Tripping Hazard</title>
+      <link>http://localhost:1313/papers/ordering-of-data/</link>
+      <pubDate>Tue, 07 Jul 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/ordering-of-data/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Clustering using Inverse Heat Kernels</title>
+      <link>http://localhost:1313/theses/20/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/20/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Core DBSCAN</title>
+      <link>http://localhost:1313/theses/19/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/19/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grace: Limiting the Number of Grid Cells for Clustering High-Dimensional Data</title>
+      <link>http://localhost:1313/papers/grace-limiting-grid-cells/</link>
+      <pubDate>Wed, 01 Jan 2020 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/grace-limiting-grid-cells/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>kNN in High- Dimensional Data</title>
+      <link>http://localhost:1313/theses/16/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/16/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chain-Detection Between Clusters</title>
+      <link>http://localhost:1313/papers/chain-detection/</link>
+      <pubDate>Fri, 01 Nov 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/chain-detection/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Variants of Spectral Clustering</title>
+      <link>http://localhost:1313/theses/18/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/18/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A kNN- based Anytime Clustering Approach</title>
+      <link>http://localhost:1313/theses/13/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/13/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Angle- Based Clustering</title>
+      <link>http://localhost:1313/theses/14/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/14/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MORe&#43;&#43;: k-Means Based Outlier Removal on High-Dimensional Data</title>
+      <link>http://localhost:1313/papers/more-pp/</link>
+      <pubDate>Mon, 23 Sep 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/more-pp/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Interactive Spectral Clustering</title>
+      <link>http://localhost:1313/theses/17/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/17/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CODEC: Detecting Linear Correlations in Dense Clusters using coMAD-based PCA</title>
+      <link>http://localhost:1313/papers/codec/</link>
+      <pubDate>Mon, 26 Aug 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/codec/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Anytime Outlier Detection based on Distributions and k-Means</title>
+      <link>http://localhost:1313/theses/12/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graph Ordering and Clustering: A Circular Approach</title>
+      <link>http://localhost:1313/papers/graph-ordering-and-clustering/</link>
+      <pubDate>Tue, 23 Jul 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/graph-ordering-and-clustering/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>LUCK: linear correlation clustering using cluster algorithms and a kNN based distance function</title>
+      <link>http://localhost:1313/papers/luck/</link>
+      <pubDate>Tue, 23 Jul 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/luck/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Data on rails: On interactive generation of artificial linear correlated data</title>
+      <link>http://localhost:1313/papers/data-on-rails/</link>
+      <pubDate>Sat, 06 Jul 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/data-on-rails/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Subspace Clustering with kNN--- A kNN-based Importance Score for Subspaces</title>
+      <link>http://localhost:1313/theses/11/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gamification of Subspace Clustering via Visual Analytics</title>
+      <link>http://localhost:1313/theses/10/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Generator For Subspace Clusters</title>
+      <link>http://localhost:1313/papers/a-generator-for-subspace-clusters/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/a-generator-for-subspace-clusters/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Chain-Detection for DBSCAN</title>
+      <link>http://localhost:1313/papers/chain-detection-dbscan/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/chain-detection-dbscan/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Clustering Trend Data Time-Series through Segmentation of FFT-decomposed Signal Constituents.</title>
+      <link>http://localhost:1313/papers/clustering-trend-data/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/clustering-trend-data/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Rock: Let the points roam to their clusters themselves</title>
+      <link>http://localhost:1313/papers/rock/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/rock/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Linear Correlation Clustering based on Nearest Neighbors</title>
+      <link>http://localhost:1313/theses/8/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fatbird: A tool for flight and trajectories analyses of birds</title>
+      <link>http://localhost:1313/papers/fatbird/</link>
+      <pubDate>Mon, 29 Oct 2018 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/fatbird/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>PARADISO: an interactive approach of parameter selection for the mean shift algorithm</title>
+      <link>http://localhost:1313/papers/paradiso/</link>
+      <pubDate>Mon, 09 Jul 2018 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/papers/paradiso/</guid>
+      <description>Short summary of the paper.</description>
+    </item>
+    <item>
+      <title>Using a Semi-Pseudometric for Clustering High Dimensional Data</title>
+      <link>http://localhost:1313/theses/4/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clustering Multidimensional Data using Fitted Grid Size</title>
+      <link>http://localhost:1313/theses/3/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clustern von Punktmengen basierend auf dynamischer Dichte</title>
+      <link>http://localhost:1313/theses/2/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chaindetection for DBSCAN</title>
+      <link>http://localhost:1313/theses/6/</link>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theses/6/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

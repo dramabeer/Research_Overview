@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <article>
+    <h2>{{ .Title }}</h2>
+    <p><small>Published on {{ .Date.Format "2006-01-02" }}</small></p>
+
+    <div>
+      {{ .Content }}
+    </div>
+
+    <p><a href="/{{ .Section }}/">Back to {{ .Section }}</a></p>
+
+  </article>
+{{ end }}
