@@ -27,7 +27,10 @@
     {{ with .Params.tags }}
 <p>
   {{ range $index, $tag := . }}
-    <a class="tag" href="/tags/{{ $tag | urlize }}/">{{ $tag }}</a>
+    <a class="tag" href="{{ (printf "tags/%s/" ($tag | urlize)) | relURL }}">
+  {{ $tag }}
+    </a>
+
   {{ end }}
 </p>
 {{ end }}
