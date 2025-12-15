@@ -5,7 +5,7 @@
   <div id="tag-filter" class="tag-filter collapsed">
     {{ $tags := .Site.Taxonomies.tags }}
     {{ range $tag, $pages := $tags }}
-      <a href="/tags/{{ $tag | urlize }}/" class="tag">{{ $tag }}</a>
+      <a href="{{ (printf "tags/%s/" ($tag | urlize)) | relURL }}" class="tag">{{ $tag }}</a>
     {{ end }}
   </div>
 </div>
