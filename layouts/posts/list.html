@@ -5,7 +5,8 @@
   <div id="tag-filter" class="tag-filter collapsed">
     {{ $tags := .Site.Taxonomies.tags }}
     {{ range $tag, $pages := $tags }}
-      <a href="/tags/{{ $tag | urlize }}/" class="tag">{{ $tag }}</a>
+      <a href="{{ (printf "tags/%s/" ($tag | urlize)) | relURL }}" class="tag">{{ $tag }}</a>
+
     {{ end }}
   </div>
 </div>
@@ -23,7 +24,9 @@
     {{ with .Params.tags }}
 <p>
   {{ range $index, $tag := . }}
-    <a class="tag" href="/tags/{{ $tag | urlize }}/">{{ $tag }}</a>
+    <a class="tag" href="{{ (printf "tags/%s/" ($tag | urlize)) | relURL }}">
+  {{ $tag }}
+    </a>
   {{ end }}
 </p>
 {{ end }}
