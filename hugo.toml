@@ -1,4 +1,6 @@
 baseURL = "https://dramabeer.github.io/Research_Overview/"
+relativeURLs = true
+canonifyURLs = true
 languageCode = "en-us"
 title = "Anna Beer"
 
