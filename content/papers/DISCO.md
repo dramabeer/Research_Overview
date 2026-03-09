@@ -6,7 +6,7 @@ draft = false
 
 year = 2025
 authors = \["Anna Beer\*", "Lena Krieger\*", "Pascal Weber\*", "Martin Ritzert", "Ira Assent", "Claudia Plant"]
-venue = "arXiv preprint arXiv:2503.00127"
+venue = "ICLR 2026"
 summary = "We developed a method to internally evaluate clustering results following the density-based clustering concept- including evaluation of noise labels. We also show that DBCV is non-deterministic."
 
 tags = \["clustering", "density-based", "evaluation"]  # Add as needed
