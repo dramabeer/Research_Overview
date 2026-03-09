@@ -59,7 +59,7 @@ year = 2016
 location = "Munich, Germany"
 
 [[education]]
-degree = "Bachelor degree in Computer Science"
+degree = "Bachelor degree in Computer Science plus Mathematics"
 institution = "LMU Munich"
 year = 2015
 location = "Munich, Germany"
