@@ -6,18 +6,18 @@ draft = false
 
 profile_pic = "/images/profile.jpg"
 name = "Dr. Anna Beer"
-position = "Research and Teaching Staff"
-researchgroup = "Data Mining and Machine Learning"
+position = "Assistant Professor"
+researchgroup = ""
 faculty = "Computer Science" 
-university = "University of Vienna"
-email = "anna.beer@univie.ac.at"
+university = "Webster Vienna Private University"
+email = "anna.beer@webster.ac.at"
 scholar_url = "https://scholar.google.com/citations?user=ByPvRi8AAAAJ&hl=en"
 linkedin_url = "https://www.linkedin.com/in/anna-beer-2962a5146/"
 [[experience]]
 position = "Postdoc"
 institution = "University of Vienna"
 start = 2023
-end = 2025
+end = 2026
 location = "Vienna, Austria"
 
 [[experience]]
@@ -68,12 +68,10 @@ location = "Munich, Germany"
 
 +++
 
-I am a post-doctoral researcher in Data Mining and Machine Learning at the University of Vienna. I received my PhD degree in Computer Science from LMU Munich for my work
-"On the Edges of Clustering - Creating Synergies with Related Problems", 
-supervised by Prof. Dr. Thomas Seidl. <br>
-Before my current position, I was working on data analysis methods for molecular dynamics data as a post-doc at Aarhus University, Denmark. <br>
+I am an assistant professor for computer science at Webster Vienna Private University, focusing on data mining and machine learning. Before, I have worked as a postdoc at University of Vienna (Austria) in Clauida Plant's group and at Aarhus University (Denmark) in Ira Assent's group. I received my PhD in Computer Science from LMU Munich in 2021 supervised by Thomas Seidl. <br>
 
+My research focus lies in fundamental research in data mining and unsupervised machine learning with a specialization in clustering and evaluation. While finding clean and theoretically appealing solutions to complex problems is my favourite, I also love interdisciplinary projects: In Denmark, I worked on methods for molecular dynamics data and current research tackles challenges arising in astrophysics data. 
 Research Interests: <br>
+Clustering (with a focus on density-based clustering, but also spectral and hierarchical clustering)<br>
 Unsupervised Machine Learning <br>
-Density-based Clustering <br>
-Evaluation of AI Methods
+Evaluation
