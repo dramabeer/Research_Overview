@@ -13,14 +13,7 @@
       <link>http://localhost:1313/cv/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;p&gt;I am a post-doctoral researcher in Data Mining and Machine Learning at the University of Vienna. I received my PhD degree in Computer Science from LMU Munich for my work&#xA;&amp;ldquo;On the Edges of Clustering - Creating Synergies with Related Problems&amp;rdquo;,&#xA;supervised by Prof. Dr. Thomas Seidl. &lt;br&gt;&#xA;Before my current position, I was working on data analysis methods for molecular dynamics data as a post-doc at Aarhus University, Denmark. &lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;Research Interests: &lt;br&gt;&#xA;Unsupervised Machine Learning &lt;br&gt;&#xA;Density-based Clustering &lt;br&gt;&#xA;Evaluation of AI Methods&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/template/</link>
-      <pubDate>Thu, 21 Aug 2025 16:55:54 +0200</pubDate>
-      <guid>http://localhost:1313/posts/template/</guid>
-      <description>Short summary of the post.</description>
+      <description>&lt;p&gt;I am an assistant professor for computer science at Webster Vienna Private University, focusing on data mining and machine learning. Before, I have worked as a postdoc at University of Vienna (Austria) in Clauida Plant’s group and at Aarhus University (Denmark) in Ira Assent’s group. I received my PhD in Computer Science from LMU Munich in 2021 supervised by Thomas Seidl. Research Interests: &lt;br&gt;&#xA;Unsupervised Machine Learning &lt;br&gt;&#xA;Density-based Clustering &lt;br&gt;&#xA;Evaluation of AI Methods&lt;/p&gt;</description>
     </item>
     <item>
       <title>Density-Connectivity Distance</title>
