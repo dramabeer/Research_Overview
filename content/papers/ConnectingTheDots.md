@@ -7,7 +7,7 @@ draft = false
 year = 2023
 authors = ["Anna Beer", "Andrew Draganov", "Ellen Hohma", "Philipp Jahn", "Christian MM Frey", "Ira Assent"]
 venue = "Proceedings of the 29th ACM SIGKDD conference on knowledge discovery and data mining"
-summary = "Short summary of the paper."
+summary = "One of my favorite papers. Here, we work at the very core of density-based clustering: we develop the density-connectivity distance (dc-dist) that captures the essence of DBSCAN-like methods. Roughly spoken, it gives you the smallest epsilon s.t. two points are in the same DBSCAN cluster and it is computed by the min-max path distance on top of the mutual reachability distance. It allows us to formulate the loss function of DBSCAN (yes, it does exist.. but it's a bit different and less useful than other clustering methods' loss functions). And we show (theoretically and empirically) that using this dc-dist as a distance measure, spectral clustering, k-Center, DBSCAN, and thresholding all return the very same clustering result. Thus, whatever is possible with one of those methods, should be transferable to the others. "
 
 tags = ["clustering", "density-based"]  # Add as needed
 pdf = "paper.pdf"  # Place PDF in static/papers/
