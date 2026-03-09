@@ -6,8 +6,8 @@ draft = false
 
 year = 2025
 authors = ["Lena Krieger*", "Anna Beer*", "Pernille Matthews", "Anneka Myrup Thiesson", "Ira Assent"]
-venue = "The Thirteenth International Conference on Learning Representations"
-summary = "Short summary of the paper."
+venue = "The Thirteenth International Conference on Learning Representations (ICLR 2025)"
+summary = "We enforce group-based fairness (balance of sensitive attributes) in density-based clustering. Integrating the dc-distance into some math from existing fair spectral clustering does the trick. In contrast to most fair clustering methods, we even include non-binary sensitive attributes, having several sensitive attributes, and even categorical data that is very typical in this area."
 
 tags = ["clustering", "density-based", "fairness"]  # Add as needed
 
