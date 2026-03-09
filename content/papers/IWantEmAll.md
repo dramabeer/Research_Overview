@@ -7,7 +7,7 @@ draft = false
 year = 2025
 authors = ["Andrew Draganov*", "Pascal Weber*", "Rasmus Skibdahl Melanchton Jørgensen", "Anna Beer", "Claudia Plant", "Ira Assent"]
 venue = "arXiv preprint arXiv:2502.14018"
-summary = "Short summary of the paper."
+summary = "Hierarchical similarity measures are awesome. If you use an ultrametric (such as the minmax distance or some trees coming from index structures) as similarity measure for clustering, you can represent it as a hierarchy. Then, optimizing quite some loss-functions, e.g., for k-Means or k-Center is very fast. The results for different k build another hierarchy from which you can chose the best partitioning to get a flat clustering with diverse methods (thresholding is the simplest). Basically, our presented framework called SHiP (Similarity-Hierarchy-Partitioning) offers a lot of different, meaningful clusterings that you get in an instant once the ultrametric similarity is given - a tool offering these advantages to non-computer scientists will come soon."
 
 tags = ["clustering", "hierarchical"]  # Add as needed
 
