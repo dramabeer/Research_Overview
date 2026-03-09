@@ -7,7 +7,7 @@ draft = false
 year = 2025
 authors = ["Anna Beer*", "Pascal Weber*", "Lukas Miklautz", "Collin Leiber", "Walid Durani", "Christian Böhm", "Claudia Plant"]
 venue = "2024 IEEE International Conference on Data Mining (ICDM)"
-summary = "Short summary of the paper."
+summary = "We combine deep and density-based clustering: take the dc-distance, throw it into an autoencoder, get a method that keeps the high-dimensional shape in low-dimensional embeddings while being able to separate intertwined, arbitrarily shaped clusters."
 
 tags = ["deep", "clustering", "density-based"]  
 
